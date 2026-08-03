@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-1. Architecture Overview
-2. Assumptions
-3. Architecture Decisions
-4. Options Considered
-5. Consequences
-6. AWS Architecture Diagram
+1. [Architecture Overview](#1-architecture-overview)
+2. [Assumptions](#2-assumptions)
+3. [Architecture Decisions](#3-architecture-decisions)
+4. [Options Considered](#4-options-considered)
+5. [Consequences](#5-consequences)
+6. [Architecture Diagram](#6-architecture-diagram)
 
 ---
 
@@ -160,7 +160,7 @@ ALB also supports WebSockets and would work for this architecture. However, its 
 
 # 6. AWS Architecture Diagram
 
-See the attached **Draw.io architecture diagram**.
+See the diagram above.
 
 ### Deployment Summary
 
