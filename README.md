@@ -20,6 +20,10 @@ The system contains two services:
 - **Score Ingest API** – Receives WebSocket connections, publishes score events to Redis Streams, and sends updates to clients.
 - **Redis** – Self-managed on EC2 and used as the messaging layer.
 
+## AWS Architecture Diagram
+
+![AWS Architecture](docs/architecture.png)
+
 ### Constraints
 
 | Item | Value |
