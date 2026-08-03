@@ -22,7 +22,7 @@ The system contains two services:
 
 ## AWS Architecture Diagram
 
-![AWS Architecture](docs/architecture.png)
+![AWS Architecture](docs/aws-architecture.drawio.png)
 
 ### Constraints
 
